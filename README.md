@@ -1,2 +1,0 @@
-# wave
-Javascript wave animation
